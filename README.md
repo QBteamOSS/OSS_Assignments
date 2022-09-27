@@ -53,11 +53,11 @@
 > 1. 새 로컬 저장소 생성 후 원격 저장소 연결하는 방법
 > 2. 기존 저장소를 연결하는 방법
      **이 책에는 1번만을 알려준다.**    
-     $mkdir gitstudy05 -> gitstudy05라는 새 폴더 만들기.
-     $cd gitstudy05 -> 현재 위치를 gitstudy05로 바꾸기.
-     $git init -> 저장소를 깃으로 초기화....
-     $echo “# gitstudy05” >> README.md -> 저장소의 소개 페이지 파일 생성.
-     $git add README.md -> 스테이지에 등록
+     $mkdir gitstudy05 -> gitstudy05라는 새 폴더 만들기. <br>
+     $cd gitstudy05 -> 현재 위치를 gitstudy05로 바꾸기.<br>
+     $git init -> 저장소를 깃으로 초기화....<br>
+     $echo “# gitstudy05” >> README.md -> 저장소의 소개 페이지 파일 생성.<br>
+     $git add README.md -> 스테이지에 등록<br>
      $git commit –m “first commit” -> 커밋, 커밋 메모: “first commit”
 
 
