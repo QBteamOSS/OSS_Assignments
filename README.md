@@ -1,12 +1,5 @@
 1조
 =
-## 💡 교재 5장 정리
-### [5.1 🚀 서버 저장소<br> 5.2 🚀 깃허브 서버 준비](https://github.com/QBteamOSS/OSS_Assignments/blob/main/organize_chapter5/1%EB%B2%88.md)
-### [5.3 🌍 깃허브 연동 및 원격 등록](https://github.com/QBteamOSS/OSS_Assignments/blob/main/organize_chapter5/2%EB%B2%88.md)
-### [5.4 ⛄ 서버 전송](https://github.com/QBteamOSS/OSS_Assignments/blob/main/organize_chapter5/3%EB%B2%88.md)
-### [5.5 🌊 자동으로 내려받기](https://github.com/QBteamOSS/OSS_Assignments/blob/main/organize_chapter5/4%EB%B2%88.md)
-### [5.6 🎈 수동으로 내려받기](https://github.com/QBteamOSS/OSS_Assignments/blob/main/organize_chapter5/5%EB%B2%88.md)
-### [5.7 🍀 순서 <br>5.8 🍀 정리](https://github.com/QBteamOSS/OSS_Assignments/blob/main/organize_chapter5/6%EB%B2%88.md)
 
 💡 오픈소스 소프트웨어(OSS)의 역사와 현황
 -
@@ -17,8 +10,17 @@
 ### [04. ⛄ 오픈소스 소프트웨어(OSS)의 종류](https://github.com/QBteamOSS/OSS_Assignments/blob/main/OSS%EC%97%AD%EC%82%AC%EC%99%80%20%ED%98%84%ED%99%A9/04.%20OSS%EC%9D%98%20%EC%A2%85%EB%A5%98.md)
 ### [05. 🌊 오픈소스 소프트웨어(OSS)의 저작권](https://github.com/QBteamOSS/OSS_Assignments/blob/main/OSS%EC%97%AD%EC%82%AC%EC%99%80%20%ED%98%84%ED%99%A9/05.%20OSS%EC%9D%98%20%EC%A0%80%EC%9E%91%EA%B6%8C.md)
 
+💡 교재 5장 정리
+-
+### [5.1 🚀 서버 저장소<br> 5.2 🚀 깃허브 서버 준비](https://github.com/QBteamOSS/OSS_Assignments/blob/main/organize_chapter5/1%EB%B2%88.md)
+### [5.3 🌍 깃허브 연동 및 원격 등록](https://github.com/QBteamOSS/OSS_Assignments/blob/main/organize_chapter5/2%EB%B2%88.md)
+### [5.4 ⛄ 서버 전송](https://github.com/QBteamOSS/OSS_Assignments/blob/main/organize_chapter5/3%EB%B2%88.md)
+### [5.5 🌊 자동으로 내려받기](https://github.com/QBteamOSS/OSS_Assignments/blob/main/organize_chapter5/4%EB%B2%88.md)
+### [5.6 🎈 수동으로 내려받기](https://github.com/QBteamOSS/OSS_Assignments/blob/main/organize_chapter5/5%EB%B2%88.md)
+### [5.7 🍀 순서 <br>5.8 🍀 정리](https://github.com/QBteamOSS/OSS_Assignments/blob/main/organize_chapter5/6%EB%B2%88.md)
+
 💡 교재 6장 정리
-=
+-
 ###  [6.1 & 6.2 🚀 새로운 작업 & 실습 준비](https://github.com/QBteamOSS/OSS_Assignments/blob/main/organize_chapter6/(1)%206.1%20%26%206.2.md)
 ###  [6.3 & 6.4 🌍 브랜치 생성 & 브랜치 확인](https://github.com/QBteamOSS/OSS_Assignments/blob/main/organize_chapter6/(2)%206.3%20%26%203.4.md)
 ###  [6.5 & 6.6 🌊 브랜치 이동 & 브랜치 공간](https://github.com/QBteamOSS/OSS_Assignments/blob/main/organize_chapter6/(3)%206.5%20&%206.6%20.md)
