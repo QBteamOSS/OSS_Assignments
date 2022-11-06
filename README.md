@@ -27,3 +27,10 @@
 ###  [6.7 & 6.8 ⛄ HEAD 포인터 & 생성과 이동](https://github.com/QBteamOSS/OSS_Assignments/blob/main/organize_chapter6/(4)%206.7%20&%206.8.md)
 ###  [6.9 & 6.10 🍀 원격 브랜치 & 브랜치 전송](https://github.com/QBteamOSS/OSS_Assignments/blob/main/organize_chapter6/(5)%206.9%20&%206.10.md)
 ### [6.11 & 6.12 🎈 브랜치 삭제 & 정리](https://github.com/QBteamOSS/OSS_Assignments/blob/main/organize_chapter6/(6)%206.11%20&%206.12.md)
+
+💡 교재 8장 정리
+-
+###  [8.1 🚀 병합](https://github.com/QBteamOSS/OSS_Assignments/blob/main/organize_chapter8/)
+###  [8.2 🌍 Fast-Forward 병합](https://github.com/QBteamOSS/OSS_Assignments/blob/main/organize_chapter8/)
+###  [8.3 🌊 3-way 병합](https://github.com/QBteamOSS/OSS_Assignments/blob/main/organize_chapter8/)
+###  [8.4 ⛄ 브랜치 삭제](https://github.com/QBteamOSS/OSS_Assignments/blob/main/organize_chapter8/)
