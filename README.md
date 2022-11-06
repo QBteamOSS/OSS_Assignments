@@ -33,4 +33,4 @@
 ###  [8.1 🚀 병합](https://github.com/QBteamOSS/OSS_Assignments/blob/main/organize_chapter8/)
 ###  [8.2 🌍 Fast-Forward 병합](https://github.com/QBteamOSS/OSS_Assignments/blob/main/organize_chapter8/)
 ###  [8.3 🌊 3-way 병합](https://github.com/QBteamOSS/OSS_Assignments/blob/main/organize_chapter8/)
-###  [8.4 ⛄ 브랜치 삭제](https://github.com/QBteamOSS/OSS_Assignments/blob/main/organize_chapter8/)
+###  [8.4 ⛄ 브랜치 삭제](https://github.com/QBteamOSS/OSS_Assignments/blob/main/organize_chapter8/(4)%208-4.md)
