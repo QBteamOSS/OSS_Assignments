@@ -28,7 +28,7 @@
 ###  [6.9 & 6.10 🍀 원격 브랜치 & 브랜치 전송](https://github.com/QBteamOSS/OSS_Assignments/blob/main/organize_chapter6/(5)%206.9%20&%206.10.md)
 ### [6.11 & 6.12 🎈 브랜치 삭제 & 정리](https://github.com/QBteamOSS/OSS_Assignments/blob/main/organize_chapter6/(6)%206.11%20&%206.12.md)
 
-💡 교재 9장 정리
+💡 교재 8장 정리
 -
 ###  [8.1 🚀 병합](https://github.com/QBteamOSS/OSS_Assignments/blob/main/organize_chapter8/(1)%208-1.md)
 ###  [8.2 🌍 Fast-Forward 병합](https://github.com/QBteamOSS/OSS_Assignments/blob/main/organize_chapter8/(2)%208-2.md)
@@ -38,6 +38,8 @@
 ###  [8.6 🍀 브랜치 병합 여부 확인](https://github.com/QBteamOSS/OSS_Assignments/blob/main/organize_chapter8/(6)%208-6.md)
 ###  [8.7 🎈 리베이스](https://github.com/QBteamOSS/OSS_Assignments/blob/main/organize_chapter8/(7)%208-7.md)
 ###  [8.8 ⚽ 정리]()
+
+💡 교재 9장 정리
 -
 ###  [9.1 🚀 되돌리기]()
 ###  [9.2 🌍 리셋]()
