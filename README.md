@@ -37,7 +37,7 @@
 ###  [8.5 🌊 충돌]()
 ###  [8.6 🍀 브랜치 병합 여부 확인](https://github.com/QBteamOSS/OSS_Assignments/blob/main/organize_chapter8/(6)%208-6.md)
 ###  [8.7 🎈 리베이스](https://github.com/QBteamOSS/OSS_Assignments/blob/main/organize_chapter8/(7)%208-7.md)
-###  [8.8 ⚽ 정리]()
+###  [8.8 ⚽ 정리](https://github.com/QBteamOSS/OSS_Assignments/blob/main/organize_chapter8/(8)%208-8.md)
 
 💡 교재 9장 정리
 -
