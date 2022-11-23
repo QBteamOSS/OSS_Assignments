@@ -46,7 +46,7 @@
 
 - 교재 9장 정리
   - [되돌리기](https://github.com/QBteamOSS/OSS_Assignments/blob/main/organize_chapter9/(1)%209-1.md) - 김현종
-  - [리셋](https://github.com/QBteamOSS/OSS_Assignments/blob/main/organize_chapter9/(2)%209-2.md) - 박종관, 이은준
+  - [리셋](https://github.com/QBteamOSS/OSS_Assignments/blob/main/organize_chapter9/(2)%209-2.md) - 김현종, 박종관, 이은준
   - [리버트](https://github.com/QBteamOSS/OSS_Assignments/blob/main/organize_chapter9/(3)%209-3.md) - 이은준, 정우준
   - [정리](https://github.com/QBteamOSS/OSS_Assignments/blob/main/organize_chapter9/(4)%209-4.md) - 구동빈
 
