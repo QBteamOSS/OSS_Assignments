@@ -13,10 +13,10 @@
 ## 교재 정리
 
 - 오픈소스 소프트웨어(OSS)의 역사와 현황
-  - [오픈소스 소프트웨어(OSS)의 배경](https://github.com/QBteamOSS/OSS_Assignments/blob/main/OSS%EC%97%AD%EC%82%AC%EC%99%80%20%ED%98%84%ED%99%A9/02.%20OSS%EC%9D%98%20%EB%B0%B0%EA%B2%BD.md) - 이은준
-  - [오픈소스 소프트웨어(OSS)의 역사](https://github.com/QBteamOSS/OSS_Assignments/blob/main/OSS%EC%97%AD%EC%82%AC%EC%99%80%20%ED%98%84%ED%99%A9/03.%20OSS%EC%9D%98%20%EC%97%AD%EC%82%AC.md) - 구동빈, 김현종
-  - [오픈소스 소프트웨어(OSS)의 종류](https://github.com/QBteamOSS/OSS_Assignments/blob/main/OSS%EC%97%AD%EC%82%AC%EC%99%80%20%ED%98%84%ED%99%A9/04.%20OSS%EC%9D%98%20%EC%A2%85%EB%A5%98.md) - 박종관
-  - [오픈소스 소프트웨어(OSS)의 저작권](https://github.com/QBteamOSS/OSS_Assignments/blob/main/OSS%EC%97%AD%EC%82%AC%EC%99%80%20%ED%98%84%ED%99%A9/05.%20OSS%EC%9D%98%20%EC%A0%80%EC%9E%91%EA%B6%8C.md) - 정우준
+  - [오픈소스 소프트웨어(OSS)의 배경](https://github.com/QBteamOSS/OSS_Assignments/blob/main/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%EA%B0%9C%EC%9A%94%EC%99%80%20%EC%9D%B4%ED%95%B4/02.%20OSS%EC%9D%98%20%EB%B0%B0%EA%B2%BD.md) - 이은준
+  - [오픈소스 소프트웨어(OSS)의 역사](https://github.com/QBteamOSS/OSS_Assignments/blob/main/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%EA%B0%9C%EC%9A%94%EC%99%80%20%EC%9D%B4%ED%95%B4/03.%20OSS%EC%9D%98%20%EC%97%AD%EC%82%AC.md) - 구동빈, 김현종
+  - [오픈소스 소프트웨어(OSS)의 종류](https://github.com/QBteamOSS/OSS_Assignments/blob/main/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%EA%B0%9C%EC%9A%94%EC%99%80%20%EC%9D%B4%ED%95%B4/04.%20%EB%8C%80%ED%91%9C%EC%A0%81%EC%9D%B8%20OSS%20%EC%A2%85%EB%A5%98.md) - 박종관
+  - [오픈소스 소프트웨어(OSS)의 저작권](https://github.com/QBteamOSS/OSS_Assignments/blob/main/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%EA%B0%9C%EC%9A%94%EC%99%80%20%EC%9D%B4%ED%95%B4/05.%20OSS%EC%9D%98%20%EC%A0%80%EC%9E%91%EA%B6%8C.md) - 정우준
 
 - 교재 5장 정리
   - [서버 저장소 및 깃허브 서버 준비](https://github.com/QBteamOSS/OSS_Assignments/blob/main/organize_chapter5/1%EB%B2%88.md) - 구동빈
@@ -45,7 +45,7 @@
   - [정리](https://github.com/QBteamOSS/OSS_Assignments/blob/main/organize_chapter8/(8)%208-8.md) - 이은준
 
 - 교재 9장 정리
-  - [되돌리기]() - 김현종
+  - [되돌리기](https://github.com/QBteamOSS/OSS_Assignments/blob/main/organize_chapter9/(1)%209-1.md) - 김현종
   - [리셋](https://github.com/QBteamOSS/OSS_Assignments/blob/main/organize_chapter9/(2)%209-2.md) - 박종관, 이은준
   - [리버트](https://github.com/QBteamOSS/OSS_Assignments/blob/main/organize_chapter9/(3)%209-3.md) - 이은준, 정우준
   - [정리](https://github.com/QBteamOSS/OSS_Assignments/blob/main/organize_chapter9/(4)%209-4.md) - 구동빈
